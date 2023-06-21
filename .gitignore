@@ -5,3 +5,11 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+.env
+media
+*.pyo
+*.pyd
+*/migrations/
+staticfiles/
+debug.log
+venv
